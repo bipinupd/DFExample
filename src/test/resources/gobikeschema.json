@@ -1,0 +1,67 @@
+[
+  {
+    "name": "duration_sec",
+    "type": "Integer",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "start_station_latitude",
+    "type": "Numeric",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "start_station_longitude",
+    "type": "Numeric",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "end_station_id",
+    "type": "Integer",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "start_time",
+    "type": "Datetime",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "end_time",
+    "type": "Datetime",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "start_station_id",
+    "type": "Integer",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "start_station_name",
+    "type": "String",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "end_station_name",
+    "type": "String",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "end_station_latitude",
+    "type": "Numeric",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "bike_id",
+    "type": "Numeric",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "user_type",
+    "type": "String",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "member_birth_year",
+    "type": "Integer",
+    "mode": "NULLABLE"
+  }
+]
